@@ -76,6 +76,8 @@ public class BMR {
                 textBB.setText("");
                 textTB.setText("");
                 textBMR.setText("");
+                lakiLakiRadioButton.setSelected(false);
+                perempuanRadioButton.setSelected(false);
             }
         });
     }
